@@ -1,5 +1,7 @@
-//This program demonstrates accessing and modifying a private member variable
-//of a base class through multiple levels of derived classes using pointers.
+/*
+This program demonstrates accessing and modifying a private member variable
+of a base class through multiple levels of derived classes using pointers.
+*/
 
                                                 /*  This program was written in TURBO CPP  */
 #include <iostream.h>
@@ -61,4 +63,5 @@ int main() {
     a.display(); //displays the modified value of x.
     getch(); 
     return 0;
+
 }
