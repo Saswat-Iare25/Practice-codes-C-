@@ -6,6 +6,6 @@
 > 
 > This repository contains intentionally unsafe programs that may crash, hang, or corrupt their own process.
 
-> ##  Run only in isolated environments
+> ##  Run only in isolated or (virtual) environments
 
 
